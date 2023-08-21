@@ -78,21 +78,7 @@ for xd in range(10000):
     ugen.append(uaku2)
 
 os.system("xdg-open https://github.com/H9R10 ")
-logo = ("""
-              
-                                                                  
-88b           d88  88888888ba,         88        88  88888888ba   
-888b         d888  88      `"8b        88        88  88      "8b  
-88`8b       d8'88  88        `8b       88        88  88      ,8P  
-88 `8b     d8' 88  88         88  888  88aaaaaaaa88  88aaaaaa8P'  
-88  `8b   d8'  88  88         88  888  88""""""""88  88""""88'    
-88   `8b d8'   88  88         8P       88        88  88    `8b    
-88    `888'    88  88      .a8P   888  88        88  88     `8b   
-88     `8'     88  88888888Y"'    888  88        88  88      `8b  
-                                                                  
-                                                                  
-                                                                   
-""")
+logo = ("BY AHMED DIKHA")
 
 class Main:
     def __init__(self):
